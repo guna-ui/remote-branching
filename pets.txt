@@ -3,3 +3,6 @@ sekhar
 ko
 pink
 orange
+tv
+fridge
+pets
